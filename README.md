@@ -6,6 +6,7 @@
 #                                                           Hi spy 🪐
 
    ✨ Seja Bem-vindo ao meu perfil ✨
+ 
  Se você veio até aqui acredito que gostaria de saber um pouco sobre mim:
   - 🎓 Eu faço faculdade de ADS.
   - 🌎 Estou aprendendo Linguagem C e aqui você vai encontrar diversos exercícios relacionados a matéria em que estou aprendendo.
